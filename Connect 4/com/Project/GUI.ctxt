@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GUI
+comment1.params=button
+comment1.target=void\ Update(javax.swing.JButton)
+comment2.params=
+comment2.target=void\ resetBoard()
+comment3.params=player1turn\ game\ rows\ columns
+comment3.target=GUI(boolean,\ Connect4Game,\ int,\ int)
+comment3.text=Constructor\ to\ setup\ the\ GUI
+numComments=4

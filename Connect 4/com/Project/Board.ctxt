@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Board
+comment1.params=rows\ columns
+comment1.target=Board(int,\ int)
+comment2.params=
+comment2.target=Piece[][]\ getOurBoard()
+comment3.params=
+comment3.target=int\ getColumns()
+comment4.params=
+comment4.target=int\ getRows()
+comment5.params=
+comment5.target=boolean\ checkBoard()
+comment6.params=colToAdd\ color
+comment6.target=int\ addPiece(int,\ java.lang.String)
+numComments=7

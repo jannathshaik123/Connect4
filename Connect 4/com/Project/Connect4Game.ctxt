@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Connect4Game
+comment1.params=
+comment1.target=boolean\ isIs1playing()
+comment2.params=color1\ color2\ rows\ columns
+comment2.target=Connect4Game(java.lang.String,\ java.lang.String,\ int,\ int)
+comment3.params=col
+comment3.target=int\ round(int)
+comment4.params=column
+comment4.target=boolean\ checkForWinnerInGUI(int)
+comment5.params=
+comment5.target=boolean\ checkDraw()
+comment6.params=col\ winningColor
+comment6.target=boolean\ checkForWinner(int,\ java.lang.String)
+comment7.params=rows\ columns
+comment7.target=void\ reset(int,\ int)
+numComments=8
