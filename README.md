@@ -13,7 +13,7 @@ Two players take turns dropping colored discs into a vertical grid, aiming to co
 
 1. Clone this repository.
 2. Open a terminal in the project directory.
-3. Compile and run the program using your preferred Java compiler (e.g., `javac Connect4.java` and then `java Connect4`).
+3. Compile and run the program using your preferred Java compiler (e.g., `javac Main.java` and then `java Main`).
 
 **Note:** This is a basic implementation and may not include features like AI opponents or a graphical interface.
 
